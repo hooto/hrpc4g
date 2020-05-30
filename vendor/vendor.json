@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/wfKdpja3tXoTwZS0jdDy8GXjho=",
+			"path": "github.com/lthibault/quic-mangos",
+			"revision": "e976a3925aa102d697d160961a14753d8b0e4a81",
+			"revisionTime": "2018-09-05T08:26:12Z"
+		},
+		{
+			"checksumSHA1": "uwjij4OlZRCdZOsv9Lt7kI3dKMQ=",
+			"path": "go.nanomsg.org/mangos/v3",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "UY042+/E8EkWuhza256fpBTEKIk=",
+			"path": "go.nanomsg.org/mangos/v3/errors",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "+Ee8ytMjKcDkmGVAvA5HQOzWcDQ=",
+			"path": "go.nanomsg.org/mangos/v3/internal/core",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "PqswD3ZrEeA2YfmmuNuybfm7SEU=",
+			"path": "go.nanomsg.org/mangos/v3/protocol",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "vxiKVU2z9i4fO2GAxM7WrhwCzYo=",
+			"path": "go.nanomsg.org/mangos/v3/protocol/rep",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "bluyDz7W4V1qHIm5oQ/gXdRuoKw=",
+			"path": "go.nanomsg.org/mangos/v3/protocol/req",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "XIdrh4psxaqKQaP9wsD9XXWPOgU=",
+			"path": "go.nanomsg.org/mangos/v3/transport",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "BUk+MLMxfZ7VZrttL4oWfRT5eus=",
+			"path": "go.nanomsg.org/mangos/v3/transport/all",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "g0Jc+90vyb+dBvrdcHOabb7xmLQ=",
+			"path": "go.nanomsg.org/mangos/v3/transport/inproc",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "AKxdyOkQC0TNYTgQxQXlbwWAylY=",
+			"path": "go.nanomsg.org/mangos/v3/transport/ipc",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "YLanIhfcDm7YpQnRezm/U3OegaU=",
+			"path": "go.nanomsg.org/mangos/v3/transport/tcp",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "BLqGKw+06JXGv4oo2scZxh7g3IE=",
+			"path": "go.nanomsg.org/mangos/v3/transport/tlstcp",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "p8Fk0AxzzJN91gK6pUFYcKbMS+I=",
+			"path": "go.nanomsg.org/mangos/v3/transport/ws",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		},
+		{
+			"checksumSHA1": "K1nM3Vu3hj03kaC5YJeWdrweSwE=",
+			"path": "go.nanomsg.org/mangos/v3/transport/wss",
+			"revision": "3139ecf57388b0bda822585d671c0ef4f55da82e",
+			"revisionTime": "2020-03-29T22:15:13Z"
+		}
+	],
+	"rootPath": "github.com/hooto/hrpc4g"
+}

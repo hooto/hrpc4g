@@ -1,0 +1,7 @@
+bin/
+batch-*
+zzz_*
+*.go.dbg
+rpcbench.json
+*.svg
+
